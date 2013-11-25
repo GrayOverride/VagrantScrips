@@ -15,3 +15,5 @@ PhusionPassenger
 After the installation is done you'll want to install your choice of Ruby&Rails by doing a Vagrant ssh and running 
 RVM install ruby-1.x.x
 Gem install Rails
+
+If you dont want to do a clean install of all scripts you can include any one of them to an existing vagrant directory and run vagrant reload --provision
