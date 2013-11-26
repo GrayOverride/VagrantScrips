@@ -13,6 +13,7 @@ RVM (installing Ruby is optional) <br>
 git <br>
 PhusionPassenger <br>
 Mongodb-10gen <br>
+Mysql (user Root, pass massekaffe)<br>
 
 After the installation is done you'll want to install your choice of Ruby&Rails by doing a Vagrant ssh and running: <br>
 RVM install ruby-1.x.x <br>
