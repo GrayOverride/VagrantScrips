@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt-get update -y
 sudo apt-get install -y libcurl4-openssl-dev
 sudo apt-get install -y apache2-threaded-dev
 sudo apt-get install -y libapr1-dev
