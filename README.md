@@ -3,7 +3,8 @@ VagrantScrips
 
 Vagrant Setup and workspace for ubuntu VM
 
-Before you use these you'll need to have Vagrant Installed (http://www.vagrantup.com/) with your choice of VM
+Before you use these you'll need to have Vagrant Installed (http://www.vagrantup.com/) with your choice of VM <br>
+i used the example machine that can be obtained by running "vagrant init precise32 http://files.vagrantup.com/precise32.box" <br>
 
 If you add all of the provided you will end up with a devmachine that runs: <br>
 
