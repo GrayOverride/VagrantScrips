@@ -4,7 +4,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "precise32"
   config.vm.hostname = "StandAlone"
-  config.vm.provision :shell, :path => "vscripts/depend.sh"
   config.vm.provision :shell, :path => "vscripts/apache2.sh"
   config.vm.provision :shell, :path => "vscripts/ruby.sh"
   config.vm.provision :shell, :path => "vscripts/passenger.sh"
