@@ -9,7 +9,7 @@ Install Vagrant and Virtualbox(or VMWare) (http://www.vagrantup.com/) with your 
 "jump to projekt direktory and run "git clone https://github.com/GrayOverride/VagrantScrips.git"<br>
 "vagrant up" and you are done"<br>
 
-<h2>If you add all of the provided you will end up with a devmachine that runs:</h2> <br>
+<h2>What you'll end up with:</h2> <br>
 
 Apache2 <br>
 RVM (installing Ruby is optional) <br>
