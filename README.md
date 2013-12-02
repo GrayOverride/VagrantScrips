@@ -3,10 +3,13 @@ VagrantScrips
 
 Vagrant Setup and workspace for ubuntu VM
 
-Before you use these you'll need to have Vagrant Installed (http://www.vagrantup.com/) with your choice of VM <br>
-i used the example machine that can be obtained by running "vagrant init precise32 http://files.vagrantup.com/precise32.box" <br>
+<h2>Installation</h2>
+Install Vagrant and Virtualbox(or VMWare) (http://www.vagrantup.com/) with your choice of VM <br>
+"vagrant init precise32 http://files.vagrantup.com/precise32.box" <br>
+"jump to projekt direktory and run "git clone https://github.com/GrayOverride/VagrantScrips.git"<br>
+"vagrant up" and you are done"<br>
 
-If you add all of the provided you will end up with a devmachine that runs: <br>
+<h2>What you'll end up with:</h2> <br>
 
 Apache2 <br>
 RVM (installing Ruby is optional) <br>
