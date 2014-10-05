@@ -5,5 +5,5 @@ curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 cd /vagrant/ && git clone https://github.com/PhantomOverride/mkweb.git
 sudo php5enmod mcrypt
-cd mkweb && composer install
+cd mkweb && php composer.phar install
 
